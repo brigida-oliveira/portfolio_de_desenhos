@@ -18,7 +18,6 @@ body {
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
-  width: 52rem;
   bottom: 3rem;
   z-index: 10;
 }
@@ -26,7 +25,7 @@ body {
 /* Declare heights because of positioning of img element */
 .carousel-item {
   height: 32rem;
-  background-color: #8c3cab;
+
 }
 .carousel-item > img {
   top: 0;
