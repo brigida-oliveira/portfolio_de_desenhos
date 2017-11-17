@@ -8,6 +8,20 @@ body {
   color: #5a5a5a;
 }
 
+.page-header{
+  padding: 1rem;
+  background-color: #4E0082;
+  margin-bottom: 7rem;
+}
+
+.page-header img{
+  display: block;
+  width: 7rem;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  margin-left: auto;
+  margin-right: auto
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -89,4 +103,30 @@ body {
   .featurette-heading {
     margin-top: 7rem;
   }
+}
+
+footer{
+  background-color: #4E0082;
+  padding: 2rem;
+  color: #ffffff;
+}
+
+.footer-text{
+  text-align: center;
+}
+
+.footer-icons{
+  letter-spacing: 5rem;
+}
+
+.nav-item{
+  color: #ffffff;
+}
+
+.nav-link{
+  color: #ffffff;
+}
+
+.nav-link:hover{
+  color: #e0e0e0;
 }
