@@ -21,28 +21,6 @@
   background-color: #ee4266;
 }
 
-/* CUSTOMIZE THE CAROUSEL
--------------------------------------------------- */
-
-/* Since positioning the image, we need to help out the caption */
-.carousel-caption {
-  bottom: 2rem;
-  z-index: 10;
-}
-
-/* Declare heights because of positioning of img element */
-.carousel-item {
-  height: 32rem;
-
-}
-.carousel-item > img {
-  /*min-width: 100%;*/
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
@@ -86,7 +64,7 @@ footer{
   border: 0;
 }
 
-.card > img {
+.card > a > img {
   width: 298px;
 }
 
