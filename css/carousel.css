@@ -74,7 +74,6 @@ footer{
 }
 
 .album {
-  min-height: 50rem; /* Can be removed; just added for demo purposes */
   padding-top: 3rem;
   padding-bottom: 3rem;
   background-color: #f7f7f7;
@@ -82,14 +81,13 @@ footer{
 
 .card {
   float: left;
-  width: 33.333%;
   padding: .75rem;
-  margin-bottom: 2rem;
+  margin: .5rem;
   border: 0;
 }
 
 .card > img {
-  margin-bottom: .75rem;
+  width: 298px;
 }
 
 .card-text {
