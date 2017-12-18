@@ -5,7 +5,7 @@
   padding: 1rem;
   padding-top: 3rem;
   background-color: #009ffd;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .page-header img{
@@ -50,6 +50,7 @@ footer{
   background-color: #009ffd;
   padding: 1rem;
   color: #ffffff;
+  margin-top: 1rem;
 }
 
 .footer-text{
@@ -66,4 +67,31 @@ footer{
 
 .nav-link:hover{
   color: #e0e0e0;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.album {
+  min-height: 50rem; /* Can be removed; just added for demo purposes */
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #f7f7f7;
+}
+
+.card {
+  float: left;
+  width: 33.333%;
+  padding: .75rem;
+  margin-bottom: 2rem;
+  border: 0;
+}
+
+.card > img {
+  margin-bottom: .75rem;
+}
+
+.card-text {
+  font-size: 85%;
 }
