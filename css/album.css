@@ -4,3 +4,11 @@
   margin-right: auto;
   width: 30em;
 }
+
+.row {
+  margin: 1em;
+}
+
+.titles {
+  text-align: center;
+}
