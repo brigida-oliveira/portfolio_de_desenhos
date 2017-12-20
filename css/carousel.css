@@ -73,5 +73,6 @@ footer{
 }
 
 .card > a > img {
-  width: 298px;
+  max-width: 290px;
+  width: 100%;
 }
