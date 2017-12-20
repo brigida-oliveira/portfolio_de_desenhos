@@ -27,8 +27,17 @@
 footer{
   background-color: rgba(131, 201, 244, 1);
   padding: 1rem;
-  color: #ffffff;
+  color: rgba(230, 57, 70, 1);
   margin-top: 1rem;
+}
+
+.footer-link{
+  color: rgba(230, 57, 70, 1);
+  margin: 1em;
+}
+
+.footer-link:hover{
+  color: #ffffff;
 }
 
 .footer-text{
