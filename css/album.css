@@ -2,6 +2,8 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
   width: 30em;
 }
 
@@ -9,6 +11,13 @@
   margin: 1em;
 }
 
+.biggertitles {
+  text-align: center;
+  font-weight: bold;
+  color: rgba(29, 53, 87, 1);
+}
+
 .titles {
   text-align: center;
+  color: rgba(69, 123, 157, 1);
 }

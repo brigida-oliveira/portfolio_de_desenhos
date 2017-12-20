@@ -4,7 +4,7 @@
 .page-header{
   padding: 1rem;
   padding-top: 3rem;
-  background-color: #009ffd;
+  background-color: rgba(131, 201, 244, 1);
   margin-bottom: 1rem;
 }
 
@@ -18,14 +18,14 @@
 }
 
 .color-menu{
-  background-color: #ee4266;
+  background-color: rgba(230, 57, 70, 1);
 }
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
 footer{
-  background-color: #009ffd;
+  background-color: rgba(131, 201, 244, 1);
   padding: 1rem;
   color: #ffffff;
   margin-top: 1rem;
@@ -54,20 +54,15 @@ footer{
 .album {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #f7f7f7;
+  background-color: rgba(241, 250, 238, 1);
 }
 
 .card {
   float: left;
-  padding: .75rem;
-  margin: .5rem;
-  border: 0;
+  margin: 1rem;
+  border: .75em solid rgba(131, 201, 244, 1);
 }
 
 .card > a > img {
   width: 298px;
-}
-
-.card-text {
-  font-size: 85%;
 }
