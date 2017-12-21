@@ -67,8 +67,10 @@ footer{
 }
 
 .card {
-  float: left;
-  margin: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: auto;
+  margin-right: auto;
   border: .75em solid rgba(131, 201, 244, 1);
 }
 
