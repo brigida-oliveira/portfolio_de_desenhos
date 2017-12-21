@@ -4,7 +4,8 @@
   margin-right: auto;
   margin-top: 2em;
   margin-bottom: 2em;
-  width: 30em;
+  max-width: 30em;
+  width: 100%;
 }
 
 .row {
