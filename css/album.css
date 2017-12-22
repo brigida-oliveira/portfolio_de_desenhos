@@ -31,3 +31,8 @@
   text-align: center;
   color: rgba(69, 123, 157, 1);
 }
+
+.col-md-3 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
