@@ -27,7 +27,7 @@
   background-color: rgba(241, 250, 238, 1);
 }
 
-p {
+.geral > .container > p {
   color: rgba(150, 150, 150, 1);
 }
 
