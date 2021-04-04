@@ -24,9 +24,11 @@
 .geral {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  margin-top: 3rem;
-  margin-bottom: 3rem;
   background-color: rgba(241, 250, 238, 1);
+}
+
+p {
+  color: rgba(150, 150, 150, 1);
 }
 
 /* RESPONSIVE CSS
